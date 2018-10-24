@@ -68,11 +68,11 @@ a:hover {
 .div-flex {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .div-flex h2 {
-  padding: 40px;
+ /* padding: 40px;*/
 }
 
 .text-center {
